@@ -15,6 +15,7 @@ height: 100%;
     box-shadow: #828282 8px 4px 19px; /* box-shadow: cor, x, y, blur */
     padding-left: 2%;
     padding-right: 2%;
+    overflow: auto;
 }
 .container-titulo-wp-okr{
     display: flex;
