@@ -4,6 +4,7 @@
 background-color:#ffffff;
 width: 100%;
 height: 100%;
+overflow: auto;
 }
 .principal-wp-okr{
    /* background-color:#EEF3FF;*/
